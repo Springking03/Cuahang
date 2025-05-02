@@ -66,12 +66,6 @@
     <Compile Include="form\frmChitietHDN.Designer.cs">
       <DependentUpon>frmChitietHDN.cs</DependentUpon>
     </Compile>
-    <Compile Include="form\frmCongviec.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="form\frmCongviec.Designer.cs">
-      <DependentUpon>frmCongviec.cs</DependentUpon>
-    </Compile>
     <Compile Include="form\frmDondathang.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -119,12 +113,6 @@
     </Compile>
     <Compile Include="form\frmNhanvien.Designer.cs">
       <DependentUpon>frmNhanvien.cs</DependentUpon>
-    </Compile>
-    <Compile Include="form\frmNuocSX.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="form\frmNuocSX.Designer.cs">
-      <DependentUpon>frmNuocSX.cs</DependentUpon>
     </Compile>
     <Compile Include="form\frmPhanhxe.cs">
       <SubType>Form</SubType>
@@ -190,9 +178,6 @@
     <EmbeddedResource Include="form\frmChitietHDN.resx">
       <DependentUpon>frmChitietHDN.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="form\frmCongviec.resx">
-      <DependentUpon>frmCongviec.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="form\frmDondathang.resx">
       <DependentUpon>frmDondathang.cs</DependentUpon>
     </EmbeddedResource>
@@ -219,9 +204,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="form\frmNhanvien.resx">
       <DependentUpon>frmNhanvien.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="form\frmNuocSX.resx">
-      <DependentUpon>frmNuocSX.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="form\frmPhanhxe.resx">
       <DependentUpon>frmPhanhxe.cs</DependentUpon>

@@ -120,11 +120,7 @@ namespace QLCHBanXeMay.form
             frmHangSX.ShowDialog();
         }
 
-        private void button15_Click(object sender, EventArgs e)
-        {
-            frmNuocSX frmNuocSX = new frmNuocSX();
-            frmNuocSX.ShowDialog();
-        }
+
 
         private void btnSanpham_Click(object sender, EventArgs e)
         {
@@ -138,11 +134,7 @@ namespace QLCHBanXeMay.form
             frmNhanvien.ShowDialog();
         }
 
-        private void button13_Click(object sender, EventArgs e)
-        {
-            frmCongviec frmCongviec = new frmCongviec();
-            frmCongviec.ShowDialog();
-        }
+
 
         private void btnKH_Click(object sender, EventArgs e)
         {
